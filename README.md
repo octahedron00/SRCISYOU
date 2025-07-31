@@ -1,4 +1,6 @@
-# Songjuk-dong Observatory
+# 송죽동천문대
+
+SRCISYOU (Songjuk Research Center Including Stellar Youth Observatory Unit)
 
 출판사 송죽동천문대입니다.
 
@@ -6,7 +8,9 @@
 
 이름: 송죽동천문대
 
-등록번호: 고양시 일산동구청 제2023-000123호
+등록번호: 고양시 일산동구청 제2023-000123호 (제25100-2023-000123호)
+
+등록일: 2023년 7월 3일
 
 시스템 ID: **GSHS19034**
 
@@ -36,4 +40,6 @@ ISBN 발행자 번호: **983887** (2023.07.10 부여)
 
 ### 후일담
 
-모두에게는 쉬운, 나에게만 어려운 일.
+이제 진짜 보여줄 때가 왔습니다.
+
+메일: octahedron00@gmail.com
