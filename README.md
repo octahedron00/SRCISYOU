@@ -1,10 +1,22 @@
 # 송죽동천문대
 
-<image src="logo.png" width="200px" title="logo" />
+<image src="logo.png" width="400px" title="logo" />
+
+1인 출판사 송죽동천문대입니다.
+
+|출간 계획 중|출간 준비 중|출간됨|
+|-----|-----|-----|
+|2권|**2권**|0권|
+
+### [출판된 책 보기](Books/)
+
+## Brand Identity
+
+로고 상징: 건물 위 망원경 시스템
+
+로고 폰트: [PyeojinGothic](https://noonnu.cc/font_page/1586)
 
 SRCISYOU (Songjuk Research Center Including Starry Youth Observatory Unit)
-
-출판사 송죽동천문대입니다.
 
 ## 출판사 신고 및 ISBN/ISSN 등록
 
