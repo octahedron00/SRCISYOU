@@ -1,6 +1,8 @@
 # 송죽동천문대
 
-SRCISYOU (Songjuk Research Center Including Stellar Youth Observatory Unit)
+<image src="logo.png" width="200px" title="logo" />
+
+SRCISYOU (Songjuk Research Center Including Starry Youth Observatory Unit)
 
 출판사 송죽동천문대입니다.
 
