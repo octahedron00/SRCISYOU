@@ -16,7 +16,7 @@
 
 로고 폰트: [PyeojinGothic](https://noonnu.cc/font_page/1586)
 
-SRCISYOU (Songjuk Research Center Including Starry Youth Observatory Unit)
+SRCISYOU (Songjuk Research Center Including Sprouting Youth Observatory Unit)
 
 ## 출판사 신고 및 ISBN/ISSN 등록
 
